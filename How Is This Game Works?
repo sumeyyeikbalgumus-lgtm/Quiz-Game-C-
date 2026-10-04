@@ -1,0 +1,27 @@
+# 🧠 C# Quiz Game Application
+
+An interactive desktop-based trivia quiz application built with **C#** and **Windows Forms**. This project demonstrates Object-Oriented Programming (OOP) principles, custom UI styling, and real-time score tracking.
+
+---
+
+## ✨ Features
+* **OOP Architecture:** Questions and players are structured using clean Object-Oriented Programming design principles (`Soru` and `Yarismaci` classes).
+* **Interactive Leaderboard:** Displays participant performance and historical scores using a custom-styled `DataGridView`.
+* **Visual Answer Feedback:** Immediate visual feedback for correct (green) and incorrect (red) choices.
+* **Automated Question Transitions:** Built-in timer logic for smooth delays between questions after an answer is selected.
+* **Modern Dark Theme:** Styled UI components with a clean dark mode interface for better user experience.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Language:** C#
+* **Framework:** .NET Framework / Windows Forms
+* **IDE:** Visual Studio / VS Code
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/sumeyyeikbalgumus-lgtm/Quiz-Game-C-)
